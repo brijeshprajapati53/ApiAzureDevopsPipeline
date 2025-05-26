@@ -1,0 +1,6 @@
+@ApiAzureDevopsPipeline_HostAddress = http://localhost:5054
+
+GET {{ApiAzureDevopsPipeline_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
